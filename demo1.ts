@@ -10,3 +10,5 @@ function jspang() {
     console.log(web)
 }
 jspang()
+
+export{}

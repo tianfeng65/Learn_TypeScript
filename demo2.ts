@@ -76,3 +76,5 @@ const eat: (food: string) => void = food => {
 }
 
 eat('汉堡王')
+
+export{}
