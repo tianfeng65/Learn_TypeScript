@@ -25,7 +25,7 @@ jspang()
  * 这里的: number就是定义了一个静态类型。
  * 这样定义后count这个变量在程序中就永远都是数字类型了，不可以改变了。
  */
-const count: number = 1
+let count: number = 1
 // count = 'jspang' //* 比如我们这时候给count复制一个字符串，它就报错了。
 
 /**
