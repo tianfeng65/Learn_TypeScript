@@ -12,7 +12,7 @@
  //元祖类型把数组上每个元素类型的位置给固定住了， 30只能在最后一个位置, 而且数组长度也被定死为3。
  const xiaohong: [string, string, number] = ['小王', 'teacher', 30]
 
- 
+ export {}
 
 
 
