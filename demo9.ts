@@ -29,3 +29,5 @@ class Teacher extends Person {
 
 const teacherWang = new Teacher()
 teacherWang.sayHello()
+
+export {}
