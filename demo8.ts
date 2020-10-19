@@ -40,3 +40,5 @@ class EnglishTeacher extends Teacher {
 }
 const teacherLi = new EnglishTeacher()
 teacherLi.sayHello()
+
+export {}
