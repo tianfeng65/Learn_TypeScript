@@ -15,8 +15,8 @@ const xiaoming = new Person('小明')
  * 抽象类中的抽象方法必须被子类实现：
  */
 abstract class Animal {
-    constructor(public readonly name) {}
-    abstract yell()
+    constructor(public readonly name: string) {}
+    abstract yell():void
 }
 
 class Cat extends Animal {
@@ -28,3 +28,5 @@ class Cat extends Animal {
 let xiaopang = new Cat('小胖')
 console.log(xiaopang.name)
 xiaopang.yell()
+
+export {}
