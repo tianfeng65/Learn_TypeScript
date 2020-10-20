@@ -1,5 +1,5 @@
 # Learn_TypeScript
-跟着技术胖学习TS
+学习TS，记录学习笔记
 
 # 一、起步
 ```javascript
