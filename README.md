@@ -750,8 +750,3 @@ const cats2 = cats.map(cat => ({name: cat, age: 1}))
 const selectCat2 = new SelectCat(cats2)
 console.log(selectCat2.getCat(2))
 ```
-
-# 十七、namesapce 命名空间
-```
-见demo17
-```
